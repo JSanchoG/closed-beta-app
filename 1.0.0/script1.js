@@ -1,6 +1,6 @@
 $(document).ready(function () {
   // FETCHING DATA FROM JSON FILE
-  $.getJSON("https://raw.githubusercontent.com/JSanchoG/Test/main/test-trash/json3.json",
+  $.getJSON("https://raw.githubusercontent.com/JSanchoG/closed-beta-app/main/1.0.0/json1.json",
   function (data) {
     var fetchJSON = '';
     // ITERATING THROUGH OBJECTS
